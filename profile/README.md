@@ -2,7 +2,9 @@
 
 Pour toute remarque, suggestion, discussion, merci de [créer une issue](https://github.com/Cours-Prog-Imac/.github/issues/new).
 
-([📝 To-Do list pour les profs](https://github.com/orgs/Cours-Prog-Imac/projects/2))
+Pour les profs: [📝 To-Do list](https://github.com/orgs/Cours-Prog-Imac/projects/2)
+
+Table des Matières:
 
 - [🐣 S1](#-s1)
   - [🐣 S1 | Prog](#-s1--prog)
