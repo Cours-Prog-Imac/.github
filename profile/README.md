@@ -1,7 +1,7 @@
 # Cours de programmation de l'IMAC
 
 - [🐣 S1](#-s1)
-  - [🐣 S1 | Prog \& Algo](#-s1--prog--algo)
+  - [🐣 S1 | Prog](#-s1--prog)
   - [🐣 S1 | Web Front](#-s1--web-front)
 - [🐤 S2](#-s2)
   - [🐤 S2 | Prog \& Algo](#-s2--prog--algo)
@@ -26,7 +26,7 @@
 
 ## 🐣 S1
 
-### 🐣 S1 | Prog & Algo
+### 🐣 S1 | Prog
 
 - [Contenu des cours](https://github.com/orgs/Cours-Prog-Imac/projects/1/views/1)
 - [TODO site des cours]()
