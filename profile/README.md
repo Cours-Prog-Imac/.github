@@ -32,7 +32,7 @@ Pour toute remarque, suggestion, discussion, merci de [créer une issue](https:/
 
 ### 🐣 S1 | Prog
 
-- [Contenu des cours](https://github.com/orgs/Cours-Prog-Imac/projects/1/views/1)
+- [Programme des cours](https://github.com/orgs/Cours-Prog-Imac/projects/1/views/1)
 - [TODO site des cours]()
 - [Workshop](https://github.com/orgs/Cours-Prog-Imac/projects/1/views/1?pane=issue&itemId=29683870)
 
