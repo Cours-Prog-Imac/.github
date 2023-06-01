@@ -60,7 +60,11 @@ Pour toute remarque, suggestion, discussion, merci de [créer une issue](https:/
 
 ### 🐬 S4 | Clean Code
 
+[Site des cours](https://julesfouchy.github.io/Learn--Clean-Code-With-Cpp/)
+
 ### 🐬 S4 | Synthèse d'Image
+
+[Site des TPs](https://julesfouchy.github.io/Learn--OpenGL/)
 
 ### 🐬 S4 | Web Front
 
