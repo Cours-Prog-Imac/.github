@@ -1,5 +1,7 @@
 # Cours de programmation de l'IMAC
 
+Pour toute remarque, suggestion, discussion, merci de [créer une issue](https://github.com/Cours-Prog-Imac/.github/issues/new).
+
 - [🐣 S1](#-s1)
   - [🐣 S1 | Prog](#-s1--prog)
   - [🐣 S1 | Web Front](#-s1--web-front)
