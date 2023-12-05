@@ -33,6 +33,8 @@ Table des Matières:
 ### 🐣 S1 | Prog
 
 - [Site des cours](https://dsmte.github.io/Learn--cpp_programming/)
+- [Workshop: template de projet](https://github.com/Cours-Prog-Imac/S1-Prog-Workshop)
+- [Workshop: solution](https://github.com/Cours-Prog-Imac/S1-Prog-Workshop-Solution/)
 
 ### 🐣 S1 | Web Front
 
