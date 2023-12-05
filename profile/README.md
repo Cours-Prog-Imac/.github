@@ -2,8 +2,6 @@
 
 Pour toute remarque, suggestion, discussion, merci de [créer une issue](https://github.com/Cours-Prog-Imac/.github/issues/new).
 
-Pour les profs: [📝 To-Do list](https://github.com/orgs/Cours-Prog-Imac/projects/2)
-
 Table des Matières:
 
 - [🐣 S1](#-s1)
@@ -34,9 +32,7 @@ Table des Matières:
 
 ### 🐣 S1 | Prog
 
-- [Programme des cours](https://github.com/orgs/Cours-Prog-Imac/projects/1/views/1)
 - [Site des cours](https://dsmte.github.io/Learn--cpp_programming/)
-- [Workshop](https://github.com/orgs/Cours-Prog-Imac/projects/1/views/1?pane=issue&itemId=29683870)
 
 ### 🐣 S1 | Web Front
 
